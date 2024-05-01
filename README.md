@@ -1,4 +1,4 @@
-# Game of King's
+# Chess community
 
 <img src="assets/images/Responsive.png">
 
